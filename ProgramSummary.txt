@@ -1,0 +1,6 @@
+Program Summary:
+
+We are submitting “Hello World” as our program. 
+The reason for this is that we are doing our senior 
+project for the Federal Reserve Bank of Kansas City 
+and wanted to learn from this contest how the system works. 
